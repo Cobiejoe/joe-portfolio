@@ -12,13 +12,32 @@ You don’t need to become an engineer to contribute meaningfully — but you *d
 
 ---
 
-## What “the cloud” actually is (plain language)
+## What “the cloud” actually is
 At its core, the cloud is **computing resources delivered as services**.
 
 Instead of buying, hosting, and maintaining your own physical servers and data centers, organizations:
 - rent compute and storage capacity on demand,
 - rely on managed services to reduce operational overhead,
 - and scale resources up or down based on real usage.
+
+## Cloud computing at a glance
+
+```mermaid
+flowchart LR
+    User[User / Business Team]
+    App[Application]
+    Compute[Compute]
+    Storage[Storage]
+    Network[Networking]
+    AWS[AWS Managed Infrastructure]
+
+    User --> App
+    App --> Compute
+    Compute --> Storage
+    Compute --> Network
+    Network --> AWS
+    Storage --> AWS
+
 
 ### A useful mental model
 Think of the cloud like utilities:
