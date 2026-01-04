@@ -36,7 +36,7 @@ flowchart LR
     Compute --> Storage
     Compute --> Network
     Network --> AWS
-    Storage --> AWS
+    Storage --> AWS```
 
 
 ### A useful mental model
