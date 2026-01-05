@@ -81,7 +81,6 @@ Networking decisions frequently connect to:
 
 Even at a high level, understanding *where* data flows is valuable for risk and compliance conversations.
 
-> **Checkpoint**  
 > If you’re unsure where something fits in a cloud discussion, ask yourself:  
 > Is this about running work (compute), storing data (storage), or connecting systems (networking)?
 
@@ -90,17 +89,12 @@ Even at a high level, understanding *where* data flows is valuable for risk and 
 ## What “managed service” really means
 A managed service is one where the cloud provider handles **some portion of setup, scaling, patching, backups, or infrastructure maintenance**.
 
-<details>
-<summary><strong>Why teams choose managed services</strong></summary>
-
 Teams often choose managed services to:
 - reduce operational overhead,
 - shift maintenance responsibility,
 - and standardize common infrastructure patterns.
 
 The tradeoff is usually reduced flexibility in exchange for speed and reliability.
-</details>
-
 
 Helpful stakeholder questions include:
 - “What operational work does this service remove for our team?”
