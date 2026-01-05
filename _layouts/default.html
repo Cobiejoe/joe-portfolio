@@ -1,29 +1,54 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta charset="UTF-8" />
     <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#157878" />
+
+    <!-- Cayman theme stylesheet -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <!-- Minimal navbar styling (scoped) -->
     <style>
       .site-nav {
-        margin: 0 0 1rem 0;
-        padding: .75rem 0;
-        border-bottom: 1px solid rgba(0,0,0,.12);
+        margin-top: 1rem;
+        padding: .5rem 0;
+        border-top: 1px solid rgba(255,255,255,.25);
       }
-      .site-nav a { margin-right: .75rem; text-decoration: none; }
+      .site-nav a {
+        color: rgba(255,255,255,.95);
+        text-decoration: none;
+        margin-right: 1rem;
+        font-weight: 600;
+      }
       .site-nav a:hover { text-decoration: underline; }
     </style>
   </head>
-  <body>
-    <nav class="site-nav">
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/courses/' | relative_url }}">Courses</a>
-      <a href="{{ '/labs/' | relative_url }}">Labs</a>
-      <a href="{{ '/case-studies/' | relative_url }}">Case Studies</a>
-    </nav>
 
-    <main>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">{{ site.title }}</h1>
+      {% if site.description %}
+        <h2 class="project-tagline">{{ site.description }}</h2>
+      {% endif %}
+
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/courses/' | relative_url }}">Courses</a>
+        <a href="{{ '/labs/' | relative_url }}">Labs</a>
+        <a href="{{ '/case-studies/' | relative_url }}">Case Studies</a>
+      </nav>
+    </section>
+
+    <section class="main-content">
       {{ content }}
-    </main>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner">
+          {{ site.title }}
+        </span>
+      </footer>
+    </section>
   </body>
 </html>
