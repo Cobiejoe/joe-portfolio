@@ -11,26 +11,27 @@ Most of my professional work has been developed for enterprise environments and 
 
 ## How to review this portfolio
 
-This portfolio is organized to reflect how technical training and enablement materials are often designed and maintained in real-world environments.
+This portfolio is organized to reflect how technical training and enablement materials are commonly designed, delivered, and maintained in real-world environments.
 
 If you’re reviewing this for the first time, the recommended path is:
 
-1. **Start with the course**
-   - Review *AWS Fundamentals for Non-Technical Stakeholders* under **Courses**
-   - Focuses on lesson structure, clarity of explanation, and alignment to business decision-making
+1. **Start with a course**
+   - Review one of the available courses under **Courses**
+   - These focus on lesson structure, clarity of explanation, and how technical concepts are framed for a variety of audiences
 
-2. **Explore the interactive knowledge check**
-   - Located at the end of the course
-   - Demonstrates how interactivity can be layered onto documentation-style learning without a full LMS
+2. **Explore an interactive knowledge check**
+   - Located at the end of a course
+   - Demonstrates how interactivity can be layered onto documentation-style learning without relying on a full LMS
 
-3. **Read the case study**
-   - Explains the design decisions, constraints, and tradeoffs behind the course
-   - Provides context on tooling, instructional approach, and use of AI-assisted workflows
+3. **Read a case study**
+   - Describes the design decisions, constraints, and tradeoffs behind a selected project
+   - Provides context on instructional approach, tooling choices, and use of AI-assisted workflows
 
-4. **Review the lab walkthrough**
-   - Shows how technical reasoning and architecture interpretation are taught without requiring hands-on setup
+4. **Review a lab or walkthrough**
+   - Shows how technical reasoning and system interpretation are taught without requiring hands-on setup or credentials
 
 Each artifact is intentionally lightweight, non-proprietary, and designed to demonstrate how I approach instructional design, technical communication, and learning system constraints.
+
 
 ---
 
