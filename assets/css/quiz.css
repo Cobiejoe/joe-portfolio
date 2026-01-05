@@ -160,3 +160,10 @@
   opacity: .85;
   font-size: .95em;
 }
+
+/* Force our quiz styles to win inside the quiz card */
+.quiz-card .quiz-choice,
+.quiz-card .quiz-reset {
+  border: 1px solid rgba(0, 0, 0, .18) !important;
+  background: rgba(255,255,255,.98) !important;
+}
