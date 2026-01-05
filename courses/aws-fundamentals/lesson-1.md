@@ -22,22 +22,11 @@ Instead of buying, hosting, and maintaining your own physical servers and data c
 
 ## Cloud computing at a glance
 
-```mermaid
-flowchart LR
-    User[User / Business Team]
-    App[Application]
-    Compute[Compute]
-    Storage[Storage]
-    Network[Networking]
-    AWS[AWS Managed Infrastructure]
+![Cloud mental model showing users, applications, compute, storage, and networking](../../assets/diagrams/cloud-mental-model.svg)
 
-    User --> App
-    App --> Compute
-    Compute --> Storage
-    Compute --> Network
-    Network --> AWS
-    Storage --> AWS
-```
+Use this diagram as a reference point as you read. Most cloud conversations map back to these same building blocks -
+no matter how complex they sound.
+
 
 ### A useful mental model
 Think of the cloud like utilities:
