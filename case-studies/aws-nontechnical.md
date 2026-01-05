@@ -197,14 +197,6 @@ The finished artifact demonstrates:
 
 ---
 
-## What I would iterate next
-With additional time or organizational context, future enhancements could include:
-- role-specific variants (e.g., finance-focused or leadership-focused),
-- analytics or lightweight progress tracking,
-- expanded case-based scenarios tied to specific business outcomes.
-
----
-
 ## Key takeaway
 Effective technical training for non-technical audiences is less about simplifying technology and more about **clarifying decisions**.
 
