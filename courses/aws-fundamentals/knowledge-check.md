@@ -2,7 +2,7 @@
 
 Answer the questions below to check your understanding of the concepts from Lessons 1 and 2.
 
-<link rel="stylesheet" href="/../../assets/css/quiz.css">
+<link rel="stylesheet" href="../../assets/css/quiz.css">
 
 <div data-quiz="aws-fundamentals"></div>
 
