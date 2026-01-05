@@ -206,6 +206,6 @@ This project was designed to demonstrate how foundational concepts, visual model
 
 ## Explore the artifacts
 
-- **View the course:** [AWS Fundamentals for Non-Technical Stakeholders](../courses/aws-fundamentals/)
+- **View the course:** [AWS Fundamentals for Non-Technical Stakeholders](../courses/aws-fundamentals/README.md)
 - **Review the lab:** [Architecture walkthrough](../labs/aws-architecture-walkthrough.md)
 - **Back to case studies:** [All case studies](index.md)
