@@ -3,8 +3,6 @@ layout: default
 title: Page Title
 ---
 
-[Home](index.md) • [Courses](courses/) • [Case Studies](case-studies/) • [Labs](labs/)
-
 Welcome. This portfolio showcases representative work demonstrating my approach to designing and delivering technically informed training programs for both technical and non-technical audiences.
 
 Most of my professional work has been developed for enterprise environments and is proprietary in nature. The materials presented here are intentionally non-proprietary and were created specifically to demonstrate instructional design judgment, technical fluency, and end-to-end ownership of learning solutions.
@@ -19,7 +17,7 @@ If you’re reviewing this for the first time, the recommended path is:
 
 1. **Start with the course**
    - Review *AWS Fundamentals for Non-Technical Stakeholders* under **Courses**
-   - Focus on lesson structure, clarity of explanation, and alignment to business decision-making
+   - Focuses on lesson structure, clarity of explanation, and alignment to business decision-making
 
 2. **Explore the interactive knowledge check**
    - Located at the end of the course
@@ -59,7 +57,7 @@ My work emphasizes clarity, maintainability, accessibility, and alignment to rea
 ## Areas of Focus
 
 - Technical curriculum design and delivery
-- Cloud and developer fundamentals (AWS, Python)
+- Cloud and developer fundamentals
 - Training systems, workflows, and governance
 - Scalable eLearning and documentation-style instruction
 - Translating complex technical concepts for business audiences
