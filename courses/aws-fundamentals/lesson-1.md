@@ -119,5 +119,5 @@ You don’t need precise answers. The goal is to build comfort recognizing the s
 
 In **Lesson 2**, we’ll look at how these concepts show up over time—how systems move from idea to deployment to ongoing operation, and where non-technical stakeholders can have the most impact.
 
-Continue to: **[Lesson 2: How AWS Supports Business Workflows](lesson-2.md)**
+Continue to: **[Lesson 2: How AWS Supports Business Workflows](lesson-2.md)**  
 Or revisit: **[Course overview](README.md)**
