@@ -140,5 +140,5 @@ Based on this walkthrough:
 ## Related resources
 
 - **Up:** [Labs](index.md)
-- **Course context:** [AWS Fundamentals course](../courses/aws-fundamentals/)
+- **Course context:** [AWS Fundamentals course](../courses/aws-fundamentals/README.md)
 - **Design context:** [Case study](../case-studies/aws-nontechnical.md)
