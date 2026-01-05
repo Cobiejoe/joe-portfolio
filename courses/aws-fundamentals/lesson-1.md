@@ -51,6 +51,11 @@ Compute is **where code runs**. Examples include:
 In AWS discussions, you may hear terms like *instances*, *containers*, or *serverless*. You don’t need to know how they’re configured — just remember:  
 **Compute is responsible for executing work.**
 
+> **Checkpoint**  
+> If you’re unsure where something fits in a cloud discussion, ask yourself:  
+> Is this about running work (compute), storing data (storage), or connecting systems (networking)?
+
+
 ---
 
 ### 2) Storage (saving data)
@@ -86,12 +91,16 @@ Even at a high level, understanding *where* data flows is valuable for risk and 
 ## What “managed service” really means
 A managed service is one where the cloud provider handles **some portion of setup, scaling, patching, backups, or infrastructure maintenance**.
 
-This usually trades:
-- **less operational burden**  
-for  
-- **less low-level control**,  
-and sometimes  
-- **different cost dynamics**.
+<details>
+<summary><strong>Why teams choose managed services</strong></summary>
+
+Teams often choose managed services to:
+- reduce operational overhead,
+- shift maintenance responsibility,
+- and standardize common infrastructure patterns.
+
+The tradeoff is usually reduced flexibility in exchange for speed and reliability.
+</details>
 
 Helpful stakeholder questions include:
 - “What operational work does this service remove for our team?”
