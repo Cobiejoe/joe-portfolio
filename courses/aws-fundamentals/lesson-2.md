@@ -26,7 +26,7 @@ This is where non-technical stakeholders often have more leverage than they real
 
 The diagram below shows a simplified lifecycle for a cloud-based system, from initial idea through ongoing operation.
 
-![Cloud delivery lifecycle from business need to operating and improving a system, with cost, reliability, security, and ownership considerations across phases](../../assets/diagrams/cloud-lifecycle-idea-to-operate.svg)
+![Cloud delivery lifecycle from business need to operating and improving a system, with cost, reliability, security, and ownership considerations across phases](../../assets/diagrams/cloud-delivery-lifecycle.svg)
 
 The boxes across the top represent stages the system moves through. Beneath them are horizontal swim lanes that represent decision lenses—areas of concern that span multiple stages rather than appearing at a single point in time.
 

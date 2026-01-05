@@ -9,7 +9,7 @@ This section contains short, documentation-style training experiences designed t
 
 ## Available courses
 
-- **[AWS Fundamentals for Non-Technical Stakeholders](aws-fundamentals/lesson-1.md)**
+- **[AWS Fundamentals for Non-Technical Stakeholders](/aws-fundamentals/lesson-1.md)**
   A conceptual introduction to cloud computing designed to help business partners engage more effectively with technical teams.
 
 Additional courses will be added over time.
