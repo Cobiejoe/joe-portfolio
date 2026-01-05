@@ -1,0 +1,9 @@
+.quiz-card { padding: 1rem; border: 1px solid rgba(0,0,0,.15); border-radius: .5rem; }
+.quiz-subtitle { margin-top: .25rem; opacity: .85; }
+.quiz-question { margin: 1rem 0; padding-top: .5rem; border-top: 1px solid rgba(0,0,0,.08); }
+.quiz-choices { display: grid; gap: .5rem; margin: .5rem 0; }
+.quiz-choice { padding: .5rem .75rem; border-radius: .4rem; border: 1px solid rgba(0,0,0,.2); cursor: pointer; }
+.quiz-choice.correct { outline: 2px solid rgba(0,128,0,.5); }
+.quiz-choice.incorrect { outline: 2px solid rgba(200,0,0,.5); }
+.quiz-footer { display: flex; gap: .75rem; align-items: center; margin-top: 1rem; }
+.quiz-reset { padding: .4rem .7rem; border-radius: .4rem; border: 1px solid rgba(0,0,0,.2); cursor: pointer; }
