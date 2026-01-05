@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Title
+---
+
 # Lab Walkthrough: Reading a Simple AWS Architecture
 
 ## Purpose

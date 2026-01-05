@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Title
+---
+
 # Lesson 1: Cloud Concepts You Actually Need
 
 ## Why this matters

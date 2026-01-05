@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <style>
+      .site-nav {
+        margin: 0 0 1rem 0;
+        padding: .75rem 0;
+        border-bottom: 1px solid rgba(0,0,0,.12);
+      }
+      .site-nav a { margin-right: .75rem; text-decoration: none; }
+      .site-nav a:hover { text-decoration: underline; }
+    </style>
+  </head>
+  <body>
+    <nav class="site-nav">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/courses/' | relative_url }}">Courses</a>
+      <a href="{{ '/labs/' | relative_url }}">Labs</a>
+      <a href="{{ '/case-studies/' | relative_url }}">Case Studies</a>
+    </nav>
+
+    <main>
+      {{ content }}
+    </main>
+  </body>
+</html>

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Title
+---
+
 # Knowledge Check: AWS Fundamentals for Non-Technical Stakeholders
 
 This knowledge check is designed to reinforce the concepts from Lessons 1 and 2.

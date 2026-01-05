@@ -1,4 +1,9 @@
-[Courses](courses/) • [Case Studies](case-studies/) • [Labs](labs/)
+---
+layout: default
+title: Page Title
+---
+
+[Home](index.md) • [Courses](courses/) • [Case Studies](case-studies/) • [Labs](labs/)
 
 Welcome. This portfolio showcases representative work demonstrating my approach to designing and delivering technically informed training programs for both technical and non-technical audiences.
 

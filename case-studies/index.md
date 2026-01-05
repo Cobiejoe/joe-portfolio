@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Title
+---
+
 # Case Studies
 
 These case studies describe the design decisions, constraints, and tradeoffs behind selected portfolio artifacts.

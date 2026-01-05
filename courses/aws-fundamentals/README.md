@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Title
+---
+
 # AWS Fundamentals for Non-Technical Stakeholders
 
 ## Audience

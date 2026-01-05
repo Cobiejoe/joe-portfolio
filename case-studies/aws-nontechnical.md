@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Title
+---
+
 # Case Study: AWS Fundamentals for Non-Technical Stakeholders
 
 ## Overview

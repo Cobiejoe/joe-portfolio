@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Title
+---
+
 # Lesson 2: How AWS Supports Business Workflows
 
 ## Why this matters

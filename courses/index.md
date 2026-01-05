@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Title
+---
+
 # Courses
 
 This section contains short, documentation-style training experiences designed to demonstrate instructional design, technical fluency, and business-aligned learning outcomes.
