@@ -5,7 +5,7 @@ This repository hosts my public portfolio of representative work as a Technical 
 Most of my professional work has been created in enterprise environments and is proprietary. The materials in this repo are intentionally non-proprietary and were created specifically to demonstrate my instructional design judgment, technical fluency, and end-to-end ownership of learning solutions.
 
 ## Live Site
-After GitHub Pages is enabled, the portfolio will be available at:
+The live webpage is available at:
 `https://cobiejoe.github.io/joe-portfolio/`
 
 ## Contents
