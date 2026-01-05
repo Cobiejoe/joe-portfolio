@@ -134,3 +134,11 @@ Based on this walkthrough:
 1. Which part of the system would you want the most visibility into as a stakeholder?
 2. Which decision lens (cost, reliability, security, ownership) feels easiest to overlook?
 3. What question would you ask first in a real architecture review?
+
+---
+
+## Related resources
+
+- **Up:** [Labs](index.md)
+- **Course context:** [AWS Fundamentals course](../courses/aws-fundamentals/)
+- **Design context:** [Case study](../case-studies/aws-nontechnical.md)

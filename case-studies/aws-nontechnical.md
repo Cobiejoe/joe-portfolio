@@ -201,3 +201,11 @@ The finished artifact demonstrates:
 Effective technical training for non-technical audiences is less about simplifying technology and more about **clarifying decisions**.
 
 This project was designed to demonstrate how foundational concepts, visual models, and well-framed questions can meaningfully improve cross-functional collaboration in cloud-enabled organizations.
+
+---
+
+## Explore the artifacts
+
+- **View the course:** [AWS Fundamentals for Non-Technical Stakeholders](../courses/aws-fundamentals/)
+- **Review the lab:** [Architecture walkthrough](../labs/aws-architecture-walkthrough.md)
+- **Back to case studies:** [All case studies](index.md)

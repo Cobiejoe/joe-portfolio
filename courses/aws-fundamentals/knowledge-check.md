@@ -15,3 +15,11 @@ You will receive immediate feedback after each question.
 <div data-quiz="aws-fundamentals"></div>
 
 <script src="../../assets/js/quiz.js"></script>
+
+---
+
+## Where to go next
+
+- **Review:** [Course overview](README.md)
+- **Apply concepts:** [Lab walkthrough](../../labs/aws-architecture-walkthrough.md)
+- **Understand the design:** [Case study](../../case-studies/aws-nontechnical.md)
