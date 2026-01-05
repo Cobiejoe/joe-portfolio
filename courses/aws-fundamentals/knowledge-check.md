@@ -1,6 +1,9 @@
 # Knowledge Check: AWS Fundamentals for Non-Technical Stakeholders
 
-Answer the questions below to check your understanding of the concepts from Lessons 1 and 2.
+This knowledge check is designed to reinforce the concepts from Lessons 1 and 2.
+The questions focus on interpretation and decision-making rather than technical configuration.
+
+You will receive immediate feedback after each question.
 
 <link rel="stylesheet" href="../../assets/css/quiz.css">
 
