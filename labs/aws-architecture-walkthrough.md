@@ -129,22 +129,3 @@ Based on this walkthrough:
 1. Which part of the system would you want the most visibility into as a stakeholder?
 2. Which decision lens (cost, reliability, security, ownership) feels easiest to overlook?
 3. What question would you ask first in a real architecture review?
-
----
-
-## How this lab fits into the course
-This walkthrough reinforces:
-- Lesson 1’s cloud building blocks
-- Lesson 2’s lifecycle and decision lenses
-
-The intent is to build confidence in **reading and reasoning about architectures**, not implementing them.
-
----
-
-## Next steps
-For deeper technical exploration, this walkthrough could be extended to:
-- service-level mappings,
-- cost estimation exercises,
-- or hands-on deployment labs.
-
-Those extensions are intentionally out of scope for this artifact.
